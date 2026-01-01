@@ -1,0 +1,1 @@
+http://spring-eb-lab-env-1.eba-zwkptmwe.us-east-2.elasticbeanstalk.com/
